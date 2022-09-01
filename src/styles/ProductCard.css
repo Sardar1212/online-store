@@ -1,0 +1,7 @@
+.card-desc {
+  -webkit-line-clamp: 3;
+  text-overflow: "ellipsis";
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

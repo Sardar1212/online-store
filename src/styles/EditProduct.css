@@ -1,0 +1,9 @@
+.edit-product__form {
+  width: 100%;
+}
+
+.box-edit-product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
